@@ -1,4 +1,4 @@
-## Hi, I'm Navjeet
+## Hi, I'm Nav
 
   [<img src="https://img.icons8.com/color/48/000000/discord.png" width="3.5%"/>](https://www.discordapp.com/users/685775515159756801)
   [<img src="https://img.icons8.com/color/48/000000/spotify.png" width="3.5%"/>](https://open.spotify.com/user/31b7x4jx2k44sfdduut6rh6ovjbq?si=85aab1ef40d84b81)
