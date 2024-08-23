@@ -1,8 +1,8 @@
 ## Hi, I'm Navjeet
 
-  [<img src="https://img.icons8.com/color/48/000000/discord.png" width="3.5%"/>](https://www.discordapp.com/users/834356860327821313)
-  [<img src="https://img.icons8.com/color/48/000000/spotify.png" width="3.5%"/>](https://open.spotify.com/user/31cplig67wp5fjsv63oxx24fcsuu)
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com//)
+  [<img src="https://img.icons8.com/color/48/000000/discord.png" width="3.5%"/>](https://www.discordapp.com/users/685775515159756801)
+  [<img src="https://img.icons8.com/color/48/000000/spotify.png" width="3.5%"/>](https://open.spotify.com/user/31b7x4jx2k44sfdduut6rh6ovjbq?si=85aab1ef40d84b81)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/navfps_7/)
   <a href="navjeetsingh181@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
   
 A Cybersecurity Enthusiast and UI/UX Developer with skills in Reverse Engineering and Networking. My passion lies in protecting digital assets, creating intuitive user experiences, and understanding software internals.
